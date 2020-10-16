@@ -5,3 +5,10 @@
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+.Wrapper{
+    width: 1200px;
+    margin: 0 auto;
+}
+section{
+    padding: 2em 2em;
+}
